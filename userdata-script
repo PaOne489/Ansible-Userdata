@@ -1,0 +1,6 @@
+#!bin/bash
+sudo apt-get update
+sudo apt-get install git -y
+sudo git clone https://github.com/PaOne489/Ansible-Userdata.git
+sudo cd Ansible-Userdata
+sudo bash ubuntu.sh
