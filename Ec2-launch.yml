@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  task: 
+  tasks: 
   - name: launching EC2 instance
     ec2: 
      key_name: Demo
