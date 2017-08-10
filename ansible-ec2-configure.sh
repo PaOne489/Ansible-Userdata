@@ -4,3 +4,5 @@ sudo apt-get install ansible -y
 
 sudo apt-get install python-pip -y
 sudo pip install awscli
+
+sudo pip install boto
