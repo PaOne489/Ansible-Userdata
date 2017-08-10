@@ -7,3 +7,4 @@
      instance_type: t2.micro
      image: ami-6e1a0117
      group: launch-wizard-1
+     region: us-west-2
